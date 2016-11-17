@@ -1,0 +1,5 @@
+161117 13:40:47	    5 Connect	root@localhost as anonymous on 
+		    5 Query	SET NAMES 'utf8'
+		    5 Init DB	wpad
+		    5 Query	SELECT * FROM article WHERE status_id=1 ORDER BY id DESC LIMIT 0, 10
+		    5 Quit	
